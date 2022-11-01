@@ -29,7 +29,7 @@ h2 {
   font-size: 1.5rem;
 }
 
-.footerPage > aside,
-.footerPage > div {
+.mainPage > aside,
+.mainPage > div {
   padding: 80px 16px;
 }
